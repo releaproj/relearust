@@ -11,7 +11,7 @@ ReleaRust destroy the misery for publishing a release to GitHub, crates.io and/o
 | [Requirements](#requirements) | [Requirements for publishing to GitHub](#requirements-for-publishing-to-github) |
 | ------------ | [Requirements for publishing to crates.io](#requirements-for-publishing-to-cratesio) |
 | ------------ | [System requirements](#system-requirements) |
-| Installation | [Cargo](#cargo) |
+| [Installation](#installation) | [Cargo](#cargo) |
 | ------------ | [Prebuilt Binaries](#prebuilt-binaries) |
 | ------------ | [Winget](#winget) |
 | [Inspiration](#inspiration) | ------- |
@@ -66,4 +66,4 @@ winget install ReleaProj.ReleaRust
 ```
 
 ## Inspiration
-Inspired by [goreleaser](https://goreleaser.com) and [rustreleaser](https://rustreleaser-org/rust-releaser)
+Inspired by [goreleaser](https://goreleaser.com) and [rustreleaser](https://github.com/rustreleaser-org/rust-releaser)
