@@ -66,4 +66,4 @@ winget install ReleaProj.ReleaRust
 ```
 
 ## Inspiration
-Inspired by [goreleaser](https://goreleaser.com) and [rustreleaser]()
+Inspired by [goreleaser](https://goreleaser.com) and [rustreleaser](https://rustreleaser-org/rust-releaser)
